@@ -1,4 +1,4 @@
-<img width="886" height="1100" alt="ef50c8be7a7d883caa9adf1a261rwc35" src="https://github.com/user-attachments/assets/e54bfa6d-4b63-4318-bb9d-aaa3b29fcc48" />
+
 # 陳萱玉的個人網頁
 
 ## 1. 基本資料
@@ -12,7 +12,7 @@
 | GitHub | [xuanyu0728/0153B002](https://github.com/xuanyu0728/0153B002) |
 
 📷 個人照片：
-![個人照片](image/avatar.jpg)
+![個人照片](image/avatar.jpg)<img width="886" height="1100" alt="ef50c8be7a7d883caa9adf1a261rwc35" src="https://github.com/user-attachments/assets/e54bfa6d-4b63-4318-bb9d-aaa3b29fcc48" />
 
 ---
 
