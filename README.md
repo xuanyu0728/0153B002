@@ -11,7 +11,7 @@
 | GitHub | [xuanyu0728/0153B002](https://github.com/xuanyu0728/0153B002) |
 
 📷 個人照片：
-![個人照片](image/avatar.png)
+![個人照片](image/avatar.jpg)
 
 ---
 
